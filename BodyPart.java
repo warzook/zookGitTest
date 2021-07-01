@@ -11,3 +11,5 @@ commit master1
 waiting
 
 1111
+
+amend
